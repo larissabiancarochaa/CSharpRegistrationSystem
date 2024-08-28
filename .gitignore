@@ -1,0 +1,16 @@
+# Ignorar arquivos e pastas temporários do Visual Studio
+.vs/
+*.vcxproj.user
+*.ncb
+*.suo
+*.user
+*.userosscache
+*.tmp
+*.log
+*.dmp
+*.pdb
+*.opendb
+.vscode/
+bin/
+obj/
+packages/
